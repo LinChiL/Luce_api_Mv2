@@ -1,3 +1,4 @@
+#server
 import os
 import io
 import time
